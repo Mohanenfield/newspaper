@@ -1,0 +1,117 @@
+/* .container{
+    background:pink;
+  } */
+  .top{
+    border-bottom:solid crimson 10px;
+    text-align:center;
+    text-transform:uppercase;
+    font-size:15px;
+    margin-bottom:5px;
+  }
+  .box{
+    border-bottom:solid black 2px;
+
+/*     height:10px; */
+    
+  }
+  .logo{
+    margin-bottom:5px;
+    text-align:center; 
+  }
+  .box1{
+    height:5px;
+    background:crimson;
+  }
+  .place{
+    font-family: "Times New Roman", Times, serif;
+    border-bottom:solid black 1px;
+    font-size:15px;
+    text-align:center;
+  }
+ 
+  .head{
+    font-family: "Times New Roman", Times, serif;
+    text-transform:uppercase;
+    text-align:center;
+    font-size:50px
+      
+  }
+  .topic{
+    font-family: "Times New Roman", Times, serif;
+    font-size:20px;
+    background:crimson;
+    width:200px;
+/*   margin-left:250px; */
+text-align:center;
+text-transform:uppercase;
+  
+  }
+.sub{
+  font-family: "Times New Roman", Times, serif;
+  text-align:center;
+  
+}
+.image{
+  text-align:center;
+}
+.p1{
+  font-family: "Times New Roman", Times, serif;
+  border-bottom:groove black 1px;
+  text-align:right;
+}
+.p2{
+  border-bottom:groove black 1px;
+  font-family: "Times New Roman", Times, serif;
+  text-align:justify;
+  word-spacing:0px;
+}
+.p3{
+  font-family: "Times New Roman", Times, serif;
+  text-align:justify;
+  word-spacing:0px;
+}
+.q{
+   font-family: "Times New Roman", Times, serif;
+  text-align:left;
+}
+.q1{
+  font-family: "Times New Roman", Times, serif;
+  text-align:left;
+}
+.m{
+   font-family: "Times New Roman", Times, serif;
+  font-size:20px;
+  text-align:center;
+}
+.P2{
+  font-family: "Times New Roman", Times, serif;
+  color:red;
+}
+.second{
+  font-family: "Times New Roman", Times, serif;
+  border:groove black 1px;
+  margin-top:10px;
+  padding:2px;
+}
+.three{
+  font-family: "Times New Roman", Times, serif;
+ margin-top:10px;
+}
+.second2{
+  font-family: "Times New Roman", Times, serif;
+  border-bottom:solid black 2px;
+    margin-top:10px;
+  text-align:justify;
+  font-size:20px;
+  
+  }
+.image2{
+  font-family: "Times New Roman", Times, serif;
+  margin-top:10px;
+  width=300px;
+  height=300px
+  text-align:center;
+}
+.a{
+  font-family: "Times New Roman", Times, serif;
+}
